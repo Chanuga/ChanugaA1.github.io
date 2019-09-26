@@ -1,0 +1,68 @@
+#masterTable{
+	width: 100%;
+	height: 750px;
+}
+
+#navigationTable{
+	
+	width: 100px;
+	background-color: lightblue;
+	text-align: center;
+	font-variant: small-caps;
+}
+
+#header{
+	height: 100px;
+	background-color: lightblue;
+	text-align: center;
+}
+
+#footer{
+	height: 75px;
+	background-color: lightblue;
+	text-align: center;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+
+#webTitle{
+	color: White;
+	margin: Blue;
+    	font-family: serif;
+  	font-size: xx-large;
+   	margin-left: 87px;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+
+#navigationRow{
+	vertical-align: top;
+}
+
+.firstRow{
+	width: 20%;
+}
+
+#navigationTable tr{
+	height: 30px;
+	background-color: white;
+    	color: orange;
+}
+
+#navigationTable tr:hover{
+	height: 30px;
+	background-color: orange;
+    	color: white;
+}
+
+a:link {
+    color: Blue; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
